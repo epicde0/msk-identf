@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(to right, red , blue);
+   }
+   .name_of_objects{
+       color: white;
+       font-size: 20px;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+   p,label,span{
+       color: white;  
+       font-family: cursive;
+   }
